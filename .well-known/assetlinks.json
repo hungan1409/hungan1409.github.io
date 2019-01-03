@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.globalcomic.mochicomi.debug",
+    "sha256_cert_fingerprints":
+    ["61:00:9C:E9:27:FE:5D:D4:19:BA:F7:09:FF:94:85:C1:B7:54:31:EC:98:C2:C9:34:45:A1:CA:C4:DC:07:3E:6E"]
+  }
+}]
