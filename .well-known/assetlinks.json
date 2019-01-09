@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.globalcomic.mochicomi.debug",
+    "package_name": "com.globalcomic.mochicomi.staging",
     "sha256_cert_fingerprints":
     ["0F:3A:B5:08:E3:28:BF:BA:A4:3B:51:7B:02:F3:D3:92:41:91:9D:0C:3D:87:F9:BC:51:95:0B:21:26:1A:98:B6"]
   }
